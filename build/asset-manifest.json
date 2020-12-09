@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b3fede7.chunk.css",
+    "main.js": "/static/js/main.e1309dc3.chunk.js",
+    "main.js.map": "/static/js/main.e1309dc3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81c778d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81c778d0.js.map",
+    "static/css/2.24f8294b.chunk.css": "/static/css/2.24f8294b.chunk.css",
+    "static/js/2.bacd5960.chunk.js": "/static/js/2.bacd5960.chunk.js",
+    "static/js/2.bacd5960.chunk.js.map": "/static/js/2.bacd5960.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a254f85bcde4635f0f95ba1c3403432c.js": "/precache-manifest.a254f85bcde4635f0f95ba1c3403432c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.24f8294b.chunk.css.map": "/static/css/2.24f8294b.chunk.css.map",
+    "static/css/main.0b3fede7.chunk.css.map": "/static/css/main.0b3fede7.chunk.css.map",
+    "static/js/2.bacd5960.chunk.js.LICENSE.txt": "/static/js/2.bacd5960.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/App.css": "/static/media/bg-grocery.ce51346b.jpg",
+    "static/media/font-awesome-5.8.1.css": "/static/media/fa-solid-900.f9b85c94.woff2",
+    "static/media/vishal.jpg": "/static/media/vishal.0ff9dc72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c778d0.js",
+    "static/css/2.24f8294b.chunk.css",
+    "static/js/2.bacd5960.chunk.js",
+    "static/css/main.0b3fede7.chunk.css",
+    "static/js/main.e1309dc3.chunk.js"
+  ]
+}
